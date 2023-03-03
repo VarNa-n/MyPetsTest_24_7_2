@@ -1,0 +1,4 @@
+2023-03-03 19:35:27,639 
+Вызываем add_new_pet_simple(<__main__.PetFriends object at 0x0000023BD3F283D0>, 'ed7349dd1dd60a1897f3b2b397af4c9f02f302063341216c54ad2730', 'name', 'animal_type', '1')
+2023-03-03 19:35:27,783 
+'add_new_pet_simple' вернула значение - (200, {'_id': '', 'age': '1', 'animal_type': 'animal_type', 'created_at': '1677861329.4890761', 'id': '9dc340f9-e250-4328-a938-70cc6f53abc8', 'name': 'name', 'pet_photo': '', 'user_id': 'ed7349dd1dd60a1897f3b2b397af4c9f02f302063341216c54ad2730'})
